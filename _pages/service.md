@@ -34,11 +34,8 @@ nav: true
   - TPAMI, IJCV, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, ACM CSUR, ACM TIST, IEEE TBD etc.
 - Membership: 
   - Member of IEEE, ACM, and CCF
-  - Member of CCF technical committee pervasive computing (TCPC)
-  - Member of human computer interaction (TCHCI)
 - Miscellaneous:
-  - Schwarzman College group capstone professional advisor, Tsinghua University, 2023-2024.
-  - Guest lecturer at Tsinghua University and Chinese Academy of Sciences.
+  - Schwarzman College group capstone professional advisor, Tsinghua University, 2023-2025.
 
 #### Awards
 
