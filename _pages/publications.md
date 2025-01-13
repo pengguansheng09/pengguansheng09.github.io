@@ -35,7 +35,7 @@ nav: true
 
 {% for y in page.years %}
   <div>{{y}}</div>
-  {% bibliography -f pubs -q @*[year={{y}}]* %}
+  {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
