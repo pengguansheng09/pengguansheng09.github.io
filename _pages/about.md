@@ -7,6 +7,7 @@ description:
 profile:
   align: left
   image: me2.png
+  image_circular: true
   address: 
 
 news: true  # includes a list of news items
