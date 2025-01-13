@@ -16,20 +16,20 @@ layout: default
 
   <article>
     {% if page.profile %}
-  <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+  <div class="profile" style="float: {% if page.profile.align == 'left' %}left{% else %}right{% endif %}; margin: 0; padding: 0;">
     {% if page.profile.image %}
       {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
       {% if page.profile.image_circular %}
-        <img src="{{ profile_image_path }}" alt="Profile Image" style="width: 100px; height: 100px; border-radius: 50%;">
+        <img src="{{ profile_image_path }}" alt="Profile Image" style="width: 100px; height: 100px; border-radius: 50%; margin: 0; padding: 0;">
       {% else %}
-        <img src="{{ profile_image_path }}" alt="Profile Image" style="width: 100px; height: 100px;" class="img-fluid z-depth-1 rounded">
+        <img src="{{ profile_image_path }}" alt="Profile Image" style="width: 100px; height: 100px; margin: 0; padding: 0;" class="img-fluid z-depth-1 rounded">
       {% endif %}
     {% endif %}
   </div>
 {% endif %}
 
+<div class="clearfix" style="margin: 0; padding: 0;">{{ content }}</div>
 
-    <div class="clearfix">{{ content }}</div>
 
     <!-- News -->
     {% if page.news and site.announcements and site.announcements.enabled %}
