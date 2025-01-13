@@ -42,6 +42,12 @@
               {% else %}
                 <em><b>{{author.first}} {{author.last}}</b></em>
               {% endif %}
+            {% else %}
+              {% if entry.corr %}
+                <em><b>{{author.first}} {{author.last}}</b></em><sup>#</sup>
+              {% else %}
+                <em><b>{{author.first}} {{author.last}}</b></em>
+              {% endif %}
             {% endif %}
           {% else %}
             {% unless forloop.last %}
