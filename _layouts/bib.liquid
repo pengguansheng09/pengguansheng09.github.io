@@ -35,14 +35,8 @@
             {% endfor %}
           {% endif %}
           
-          {% if forloop.length > 1 %}
+          {% if forloop.length == 1 %}
             {% if author_is_self %}
-              {% if entry.corr %}
-                <em><b>{{author.first}} {{author.last}}</b></em><sup>#</sup>
-              {% else %}
-                <em><b>{{author.first}} {{author.last}}</b></em>
-              {% endif %}
-            {% else %}
               {% if entry.corr %}
                 <em><b>{{author.first}} {{author.last}}</b></em><sup>#</sup>
               {% else %}
