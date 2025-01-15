@@ -5,6 +5,10 @@ permalink: /talks/
 nav: true
 ---
 
+#### Course at William & Mary
+
+- Spring 2025: DATA440/491--Trustworthy AI.
+
 #### Tutorials
 
 - AAAI 2025: **Evaluating Large Language Models: Challenges and Methods**, Feb., 2025.
