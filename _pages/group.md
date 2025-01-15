@@ -19,7 +19,7 @@ To be added.
 
 - [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
 - [Kaijie Zhu](https://immortalise.github.io/), PhD @ UCSB.
-- [Jio Oh](https://scholar.google.com/citations?user=H0WDLM4AAAAJ&hl=en), master @ KAIST, South Korea.
+- [Jio Oh](https://www.jiooh.com/home), master @ KAIST, South Korea.
 
 #### Previous Interns at MSRA
 
