@@ -33,7 +33,7 @@ nav: true
 - Journal reviewer: 
   - TPAMI, IJCV, JMLR, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, ACM CSUR, ACM TIST, IEEE TBD etc.
 - Membership: 
-  - Member of IEEE, ACM, and CCF
+  - Member of IEEE, ACM
 - Miscellaneous:
   - Schwarzman College group capstone professional advisor, Tsinghua University, 2023-2025.
 
