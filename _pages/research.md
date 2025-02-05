@@ -10,13 +10,17 @@ nav: true
 </center>
 
 The long-term research goal is to build understand, evaluate, and enhance modern AI models, such as pre-trained and large foundation models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal.
-- Machine learning: I'm generally interested in designing algorithms and applications to make machine learning systems more robust, trustworthy, and responsible. Related topics include: machine learning with foundation models, robust machine learning, OOD / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
-- Large language models: We mainly focus on understanding the potential and limitation of large foundation models. Related topics: LLM [evaluation](https://llm-eval.github.io/) and [enhancement](https://llm-enhance.github.io/).
-- AI for social sciences: How to measure the impact of generative AI on different domains? How to assist interdisciplinary domains using powerful AI models? How to use existing social science knowledge to help us better understand AI behaviors?
+
+- **Machine learning with foundation models:** I'm generally interested in designing algorithms and applications to make machine learning systems more robust, trustworthy, and responsible. Related topics include: machine learning with foundation models, robust machine learning, OOD / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications. How to efficiently use, adapt, and align large foundation models? How to enhance their robustness and reliability? How to make them more interpretable? Recently, I created a research topic named catastrophic inheritance ([Vision paper (DMLR'24)](https://arxiv.org/abs/2402.01909)):
+    - [Noisy model learning (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17002)、[Noisy diffusion pre-training (NeurIPS'24 spotlight)](https://arxiv.org/abs/2405.20494)、[Diversify (TPAMI'24)](https://arxiv.org/abs/2308.02282)
+- **Philosophy of language models:** understand how LMs work and their limitations, including, evaluation, enhancement, and agent applications.
+    - Related papers: [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [DyVal2 (ICML'24)](https://arxiv.org/abs/2402.14865), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910), [PromptRobust (CCS LAMPS)](https://arxiv.org/abs/2306.04528)
+- **Intersection of generative AI and social sciences:** How to measure the impact of generative AI on different fields? How to use powerful AI models to assist interdisciplinary research? How to use existing knowledge in social sciences to help us better understand AI models?
+    - Related papers: [CompeteAI (ICML'24 oral)](https://arxiv.org/abs/2310.17512), [EmotionPrompt (ICML'24)](https://arxiv.org/abs/2312.11111), [CultureLLM (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [CulturePark (NeurIPS'24)](https://arxiv.org/abs/2405.15145), [AgentReview (EMNLP'24 Oral)](https://arxiv.org/abs/2406.12708)
 
 #### Media Coverage
 
-- **Abstracts: NeurIPS 2024 with Jindong Wang and Steven Euijong Whang**, Microsoft Research Podcast. December 2024. [[Website](https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/)]
+- **NeurIPS 2024 with Jindong Wang and Steven Euijong Whang**, Microsoft Research Podcast. December 2024. [[Webpage](https://www.microsoft.com/en-us/research/podcast/abstracts-neurips-2024-with-jindong-wang-and-steven-euijong-whang/)]
 - **The Answer To Why Emotionally Worded Prompts Can Goose Generative AI Into Better Answers And How To Spur A Decidedly Positive Rise Out Of AI**, by **Forbes**. November 2023. [[Webpage](https://www.forbes.com/sites/lanceeliot/2023/11/11/the-answer-to-why-emotionally-worded-prompts-can-goose-generative-ai-into-better-answers-and-how-to-spur-a-decidedly-positive-rise-out-of-ai/?sh=38038fb137e5)]
 - **CulturePark for low-resource large language models**, by **MIT Technology Review**. June 2024. [[Webpage](https://www.mittrchina.com/news/detail/13596)]
 - **Epic and Generative AI**, by Epic. December 2024. [[Webpage](https://www.epic.com/epic/post/cool-stuff-now-epic-and-generative-ai/)]
