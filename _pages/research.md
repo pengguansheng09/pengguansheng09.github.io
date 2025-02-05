@@ -27,4 +27,5 @@ The long-term research goal is to build understand, evaluate, and enhance modern
 
 #### Funding and Grants
 
+- Principal Investitator. Microsoft [Accelerate Foundation Model Research](https://www.microsoft.com/en-us/research/collaboration/accelerating-foundation-models-research/) program. 02/01/2025 -- 06/30/2025.
 - Co-Principal Investigator. "Mitigating Ethical AI Threats: Dynamic Benchmarks for Securing Multimodal Social Intelligence in Large Language Models(LLMs)". Awarded by The Commonwealth Cyber Initiative (CCI). 03/01/2025 -- 02/28/2026.

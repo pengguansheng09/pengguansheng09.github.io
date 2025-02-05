@@ -24,6 +24,8 @@ nav: true
     - IJCAI 2025, 2024, 2023
   - IJCAI 2019 Publicity co-chair
   - ICDM 2019 transfer learning session chair
+- Program / grant reviewer:
+  - Oak Ridge Associated Universities (ORAU)
 - Conference PC member / reviewer: 
   - ML: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2024, 2023, 2022, 2021, 2020)
   - AI: AAAI (2022, 2021, 2020); IJCAI (2022)
