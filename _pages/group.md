@@ -17,10 +17,13 @@ To be added.
 
 #### Interns
 
-- [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
-- [Kaijie Zhu](https://immortalise.github.io/), PhD @ UCSB.
 - [Jio Oh](https://www.jiooh.com/home), master @ KAIST, South Korea.
 - [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD @ U. Washington.
+
+#### Collaborating Students
+
+- [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
+- [Kaijie Zhu](https://immortalise.github.io/), PhD @ UCSB.
 
 #### Previous Interns at MSRA
 
