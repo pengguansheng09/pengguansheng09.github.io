@@ -12,10 +12,12 @@ nav: true
 
 #### PhD Students
 
-To be added.
+To be added. PhD recruiting: [English version](https://jd92wang.notion.site/Professor-Jindong-Wang-from-William-Mary-is-Recruiting-Fully-Funded-PhD-Students-Interns-for-Fall-12eb4ea70d8e803cadebd1a9b75fd739?pvs=4), [Chinese version](https://zhuanlan.zhihu.com/p/4827065042)
 
 
 #### Interns
+
+[Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
 
 - [Jio Oh](https://www.jiooh.com/home), master @ KAIST, South Korea.
 - [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD @ U. Washington.
@@ -27,6 +29,8 @@ To be added.
 
 #### Previous Interns at MSRA
 
+Overview: 5.5 years, 18 interns (5 female), 2 papers/per person/per 3 months.
+
 - 2024.09 -- 2024.12, Jio Oh, master @ KAIST, South Korea.
   - Topics: LLM.
   - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266)
@@ -35,8 +39,16 @@ To be added.
   - Outcomes: [ERBench (NeurIPS'24 spotlight)](https://arxiv.org/abs/2403.05266)
 - 2024.09 -- 2024.12, Miaomiao Li, master @ Institute of Software, CAS.
   - Topics: Bias in LLM.
+  - Outcomes during internship: [Bias interitance](https://arxiv.org/abs/2502.04419)
 - 2024.05 -- 2024.12, Shudong Liu, PhD @ U. Macau.
   - Topics: Culture and vision language models.
+  - Outcomes during internship: [CultureVLM](https://arxiv.org/abs/2501.01282)
+- 2024.05 -- 2024.09, Zhiquan Tan, PhD @ Tsinghua U.
+  - Topisc: LLM evaluation.
+  - Outcomes during internship: [Self-knowledge evaluation](https://arxiv.org/abs/2406.06140)
+- 2024.02 -- 2024.05, Mingxuan Xia, PhD @ Zhejiang U.
+  - Topics: LLM evaluation.
+  - Outcomes during internship: Prompt Candidates.
 - 2023.08 -- 2024.06, [Qinlin Zhao](https://www.linkedin.com/in/qinlin-zhao-3a51292b2/), MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
   - Topics: agent and social science.
   - Outcomes during internship: [CompeteAI (ICML'24 oral)](https://arxiv.org/abs/2310.17512), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910)
