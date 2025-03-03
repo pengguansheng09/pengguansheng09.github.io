@@ -11,8 +11,9 @@ nav: true
 
 #### Tutorials
 
-- AAAI 2025: **Evaluating Large Language Models: Challenges and Methods**, Feb., 2025.
-- AAAI 2025: **Unified Semi-Supervised Learning with Foundation Models**, Feb., 2025.
+- CVPR 2025: **Evaluating Large Multimodal Models: Challenges and Methods**. To be held.
+- AAAI 2025: **Evaluating Large Language Models: Challenges and Methods**, Feb., 2025. [[Website&Slides](https://llm-understand.github.io/)]
+- AAAI 2025: **Unified Semi-Supervised Learning with Foundation Models**, Feb., 2025. [[Website&Slides](https://unified-ssl.github.io/)]
 - AAAI 2024: **Out-of-Distribution Generalization in Time Series**, Feb., 2024. [[Website&Slides](https://ood-timeseries.github.io/)]
 - KDD 2023: **Trustworthy machine learning: robustness, generalization and interpretability**, Aug., 2023. [[Website&Slides](https://mltrust.github.io/)]
 - WSDM 2023: **On the robustness of ChatGPT and NLP Foundation models: an adversarial and OOD perspective**, Feb., 2023. [[PDF](https://dgresearch.github.io/DG_tutorial_wsdm23_chatgpt.pdf)] [[More](https://dgresearch.github.io/)]
