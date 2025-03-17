@@ -18,7 +18,6 @@ nav: true
 - On the Diversity of Synthetic Data and its Impact on Training Large Language Models. Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin. [[arxiv](https://arxiv.org/abs/2410.15226)]
 - SoftVQ-VAE: Efficient 1-Dimensional Continuous Tokenizer. Hao Chen, Ze Wang, Xiang Li, Ximeng Sun, Fangyi Chen, Jiang Liu, Jindong Wang, Bhiksha Raj, Zicheng Liu, Emad Barsoum. [[arxiv](https://arxiv.org/abs/2412.10958)]
 - Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations? Yue Huang, Zhengqing Yuan, Yujun Zhou, Kehan Guo, Xiangqi Wang, Haomin Zhuang, Weixiang Sun, Lichao Sun, Jindong Wang, Yanfang Ye, Xiangliang Zhang. [[arxiv](https://arxiv.org/abs/2410.23426)]
-- Scito2M: A 2 Million, 30-Year Cross-disciplinary Dataset for Temporal Scientometric Analysis. Yiqiao Jin, Yijia Xiao, Yiyang Wang, Jindong Wang. [[arxiv](https://arxiv.org/abs/2410.09510)]
 - Can I understand what I create? Self-Knowledge Evaluation of Large Language Models. Zhiquan Tan, Lai Wei, Jindong Wang, Xing Xie, Weiran Huang. [[arxiv](https://arxiv.org/abs/2406.06140)]
 - Learning with noisy foundation models. Hao Chen, Jindong Wang, Zihan Wang, Ran Tao, Hongxin Wei, Xing Xie, Masashi Sugiyama, Bhiksha Raj. [[arxiv](https://arxiv.org/abs/2403.06869)]
 
