@@ -18,7 +18,7 @@ nav: true
     - ICLR 2025
     - KDD 2025, 2024 (research track)
     - ACM Multimedia (MM) 2024
-    - ACML 2024
+    - ACML 2025, 2024
   - Senior PC:
     - AAAI 2025, 2024, 2023
     - IJCAI 2025, 2024, 2023
@@ -41,6 +41,7 @@ nav: true
 
 #### Awards
 
+- Best Paper Award, AAAI 2025 workshop on Preparaing Good Data for Generative AI. 2025.
 - Outstanding Paper Award, NeurIPS 2024 workshop on Federated Foundation Models. 2024.
 - 2024 AI Rising Star (awarded by KAUST AI Initiative headed by Prof. Jürgen Schmidhuber) [[Web](https://cemse.kaust.edu.sa/ai/aii-symp-2024)]
 - World's Top 2% Scientist by Stanford University, 2023. [[News](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/)]
