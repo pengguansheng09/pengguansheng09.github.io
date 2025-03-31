@@ -14,22 +14,27 @@ nav: true
 
 To be added. PhD recruiting: [English version](https://jd92wang.notion.site/Professor-Jindong-Wang-from-William-Mary-is-Recruiting-Fully-Funded-PhD-Students-Interns-for-Fall-12eb4ea70d8e803cadebd1a9b75fd739?pvs=4), [Chinese version](https://zhuanlan.zhihu.com/p/4827065042)
 
+#### Postdocs and Visting Scholars
+
+One is onboarding.
+
 
 #### Interns
 
-[Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
-
 - [Jio Oh](https://www.jiooh.com/home), master @ KAIST, South Korea.
 - [Yuchen Wu](https://scholar.google.com/citations?user=cmvnBloAAAAJ&hl=zh-CN), PhD @ U. Washington.
+- [Chika Maduabuchi](https://chikap421.github.io/), RA @ MIT.
+
+[Intern recruiting](https://forms.gle/zRcWP49qF9aR1VXW8)
 
 #### Collaborating Students
 
-- [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
+- [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: AMD.
 - [Kaijie Zhu](https://immortalise.github.io/), PhD @ UCSB.
 
 #### Previous Interns at MSRA
 
-Overview: 5.5 years, 18 interns (5 female), 2 papers/per person/per 3 months.
+Overall: 5.5 years, 18 interns (5 female), 2 papers/per person/per 6 months.
 
 - 2024.09 -- 2024.12, Jio Oh, master @ KAIST, South Korea.
   - Topics: LLM.
@@ -93,5 +98,3 @@ Overview: 5.5 years, 18 interns (5 female), 2 papers/per person/per 3 months.
 - Ph.D student at Institute of Acoustics, CAS: Han Zhu (ICASSP * 2, TASLP).
 - Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang (KDD'23).
 - Ph.D student at University of Tokyo: Yivan Zhang, Wei Wang.
-
-
