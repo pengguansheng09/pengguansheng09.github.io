@@ -21,6 +21,7 @@ nav: true
     - KDD 2025, 2024 (research track)
     - ACM Multimedia (MM) 2024
     - ACML 2025, 2024
+    - ACL/ARR 2025
   - Senior PC:
     - AAAI 2025, 2024, 2023
     - IJCAI 2025, 2024, 2023
@@ -43,6 +44,7 @@ nav: true
 
 #### Awards
 
+- William & Mary Faculty Reearch Award. William & Mary. 2025.
 - Best Paper Award, AAAI 2025 workshop on Preparaing Good Data for Generative AI. 2025.
 - Outstanding Paper Award, NeurIPS 2024 workshop on Federated Foundation Models. 2024.
 - 2024 AI Rising Star (awarded by KAUST AI Initiative headed by Prof. Jürgen Schmidhuber) [[Web](https://cemse.kaust.edu.sa/ai/aii-symp-2024)]
