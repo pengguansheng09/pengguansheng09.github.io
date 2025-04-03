@@ -19,7 +19,7 @@ nav: true
 - Best Application Paper Award. IJCAI-19 Federated Machine Learning Workshop 2019.
 - Outstanding Scholarship of CAS president 2019.
 
-#### During PhD and B.E
+#### During PhD and Bachelor
 - Special scholarship of ICT CAS 2019.
 - Student Scholarship. AAAI Conference on Artificial Intelligence (AAAI) 2019.
 - Student Travel Grant. ACM International Conference on Multimedia (ACMMM) 2018.
