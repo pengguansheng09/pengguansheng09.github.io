@@ -13,7 +13,8 @@ nav: true
 
 #### Conference organization
   - Workshop organizer:
-    - International Workshop on Federated Learning with Generative AI In Conjunction with IJCAI 2025 ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
+    - ICCV 2025 workshop: Trustworthy Study Transfers from Classical to Foundation Models
+    - IJCAI 2025 workshop: Federated Learning with Generative AI ([FedGenAI-IJCAI'25](https://federated-learning.org/FedGenAI-ijcai-2025/))
   - Area Chair:
     - NeurIPS 2025, 2024, 2023
     - ICML 2025
@@ -42,6 +43,7 @@ nav: true
   - TPAMI, IJCV, JMLR, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, ACM CSUR, ACM TIST, IEEE TBD etc.
 
 #### Membership: 
+  - Faculty member of AI safety community, Future of Life Institute
   - Member of IEEE, ACM
 
 #### Miscellaneous:
