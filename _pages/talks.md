@@ -21,6 +21,7 @@ nav: true
 
 #### Invited talks
 
+- **Understanding and improving foundation models**, at Virginia Tech. Apr. 2025.
 - **Can AI feel, trade, and discriminate? Insights on emotions, economics, culture, and bias**, at University of Chicago. Feb. 2025.
 - **Understanding and improving foundation models**, online at University of Oklahoma. Jan. 2025.
 - **Understanding and improving foundation models**, at From Theory to Practice: Workshop on Large Language and Foundation Models (WLLFM'24), IEEE BigData Conference 2024. Washington DC. Dec. 2024. [[website](https://sites.google.com/view/wllfm24/home?authuser=1)]
