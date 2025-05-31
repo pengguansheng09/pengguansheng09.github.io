@@ -12,11 +12,12 @@ nav: true
 
 #### PhD Students
 
-To be added. PhD recruiting: [English version](https://jd92wang.notion.site/Professor-Jindong-Wang-from-William-Mary-is-Recruiting-Fully-Funded-PhD-Students-Interns-for-Fall-12eb4ea70d8e803cadebd1a9b75fd739?pvs=4), [Chinese version](https://zhuanlan.zhihu.com/p/4827065042)
+- [Mengqi Zhang](https://www.linkedin.com/in/csmengqiz/), master @ University of Rochester.
+- [Zhaolong Su](https://rollingsu.github.io/), bachelor @ Beijing University of Technology.
 
 #### Postdocs and Visting Scholars
 
-One is onboarding.
+- Dinesh Karthikeyan, postdoc @ University of Jyväskylä, Finnland.
 
 
 #### Interns
