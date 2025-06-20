@@ -16,10 +16,10 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 Assistant Researcher, <a href="https://www.wm.edu/">William & Mary</a><br/>
-pengguansheng_nudt [at] 163.com<br>
+pengguansheng_nudt@163.com<br>
 
 
-**Research interest:** (See this [page](https://jd92.wang/research/) for more details)
+**Research interest:** 
 - * exact and heuristic algorithms for routing problems, especially for orienteering problems.
 - * integration of traditional optimization algorithms and machine learning.
 
