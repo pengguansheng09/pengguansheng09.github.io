@@ -9,50 +9,41 @@ nav: true
 
 [[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)] | [[DBLP](https://dblp.org/pid/19/2969-1.html)] | [[View by topic](https://jd92.wang/research/)]
 
-#### Recent Preprints
+#### Publication list
 
-- Topological Structure Learning Should Be A Research Priority for LLM-Based Multi-Agent Systems. Jiaxi Yang, Mengqi Zhang, Yiqiao Jin, Hao Chen, Qingsong Wen, Lu Lin, Yi He, Weijie Xu, James Evans, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.22467)]
-- Corruption-Aware Training of Latent Video Diffusion Models for Robust Text-to-Video Generation. Chika Maduabuchi, Hao Chen, Yujin Han, Jindong Wang. [[arxiv](https://arxiv.org/abs/2505.21545)] [[code](https://github.com/chikap421/catlvdm)]
-- Personalized Safety in LLMs: A Benchmark and A Planning-Based Agent Approach. Yuchen Wu, Edward Sun, Kaijie Zhu, Jianxun Lian, Jose Hernandez-Orallo, Aylin Caliskan, Jindong Wang. [[arxiv](https://www.arxiv.org/abs/2505.18882)] [[website](https://chibadaisuki.github.io/personalized-safety.io/)]
-- Understanding and Mitigating the Bias Inheritance in LLM-based Data Augmentation on Downstream Tasks. Miaomiao Li, Hao Chen, Yang Wang, Tingyuan Zhu, Weijia Zhang, Kaijie Zhu, Kam-Fai Wong, Jindong Wang. [[arxiv](https://arxiv.org/abs/2502.04419)]
-- CultureVLM: Characterizing and Improving Cultural Understanding of Vision-Language Models for over 100 Countries. Shudong Liu, Yiqiao Jin, Cheng Li, Derek F. Wong, Qingsong Wen, Lichao Sun, Haipeng Chen, Xing Xie, Jindong Wang. [[arxiv](https://arxiv.org/abs/2501.01282)]
-- MentalArena: Self-play Training of Language Models for Diagnosis and Treatment of Mental Health Disorders. Cheng Li, May Fung, Qingyun Wang, Chi Han, Manling Li, Jindong Wang, Heng Ji. [[arxiv](https://arxiv.org/abs/2410.06845)]
-- On the Diversity of Synthetic Data and its Impact on Training Large Language Models. Hao Chen, Abdul Waheed, Xiang Li, Yidong Wang, Jindong Wang, Bhiksha Raj, Marah I. Abdin. [[arxiv](https://arxiv.org/abs/2410.15226)]
-- Social Science Meets LLMs: How Reliable Are Large Language Models in Social Simulations? Yue Huang, Zhengqing Yuan, Yujun Zhou, Kehan Guo, Xiangqi Wang, Haomin Zhuang, Weixiang Sun, Lichao Sun, Jindong Wang, Yanfang Ye, Xiangliang Zhang. [[arxiv](https://arxiv.org/abs/2410.23426)]
-- Can I understand what I create? Self-Knowledge Evaluation of Large Language Models. Zhiquan Tan, Lai Wei, Jindong Wang, Weiran Huang. [[arxiv](https://arxiv.org/abs/2406.06140)]
+Guansheng Peng, Jianjiang Wang, Guopeng Song, Aldy Gunawan, Lining Xing and Pieter Vansteenwegen. "Branch-and-Cut-and-Price for Agile Earth Observation Satellite Scheduling". European Journal of Operational Research, 2025. (CAS:Q2, Top, JCR:Q1, IF:6) (Working paper, Major revision).\\
 
-<details>
-<summary>Previous preprints</summary>
-<ul>
-  <li>
-    Meta Semantic Template for Evaluation of Large Language Models. Yachuan Liu, Liang Chen, Jindong Wang, Qiaozhu Mei, Xing Xie. [<a href="https://arxiv.org/abs/2310.01448" target="_blank">arxiv</a>]
-  </li>
-  <li>
-    Frustratingly Easy Model Generalization by Dummy Risk Minimization. Juncheng Wang, Jindong Wang, Xixu Hu, Shujun Wang, Xing Xie. [<a href="https://arxiv.org/abs/2308.02287" target="_blank">arxiv</a>]
-  </li>
-  <li>
-    Equivariant Disentangled Transformation for Domain Generalization under Combination Shift. Yivan Zhang, Jindong Wang, Xing Xie, and Masashi Sugiyama. [<a href="https://arxiv.org/abs/2208.02011" target="_blank">arxiv</a>]
-  </li>
-  <li>
-    Learning Invariant Representations across Domains and Tasks. Jindong Wang, Wenjie Feng, Chang Liu, Chaohui Yu, Mingxuan Du, Renjun Xu, Tao Qin, and Tie-Yan Liu. [<a href="https://arxiv.org/abs/2103.05114" target="_blank">arxiv</a>]
-  </li>
-  <li>
-    Learning to match distributions for domain adaptation. Chaohui Yu, Jindong Wang, Chang Liu, Tao Qin, Renjun Xu, Wenjie Feng, Yiqiang Chen, and Tie-Yan Liu. [<a href="https://arxiv.org/abs/2007.10791" target="_blank">arxiv</a>]
-  </li>
-</ul>
+Guansheng Peng}. Learning-augmented Ng-path Relaxation for Vehicle Routing Problem with Time Windows. 2025. (Working paper).\\
 
-</details>
+Guansheng Peng, Guopeng Song, Lining Xing, Aldy Gunawan and Pieter Vansteenwegen. "An Exact Algorithm for Agile Earth Observation Satellite Scheduling with Time-Dependent Profits", Computers \& Operations Research, 2020. 120:104946. (CAS:Q2, JCR:Q1, IF:4.1) \\
+
+Guansheng Peng, Guopeng Song, Yongming He, Jing Yu, Shang Xiang, Lining Xing, Pieter Vansteenwegen. "Solving the Agile Earth Observation Satellite Scheduling Problem with Time-Dependent Transition Times". IEEE Transactions on Systems Man Cybernetics:Systems, 2020. (CAS:Q1, JCR:Q1, IF:8.8)\\
+
+Guansheng Peng, Reginald Dewil, Cédric Verbeeck, Aldy Gunawan, Lining Xing, Pieter Vansteenwegen. "Agile Earth Observation Satellite Scheduling: an Orienteering Problem with Time-Dependent Profits and Travel Times". Computers \& Operations Research, 2019, 111:84-98. (CAS:Q2, JCR:Q1, IF:4.1)\\
+
+Guansheng Peng, Suoyi Tan, Jun Wu, Holme Petter. "Trade-offs between Robustness and Small-world Effect in Complex Networks". Scientific Reports, 2016, 6:37317. (CAS:Q2, JCR:Q1, IF:3.8) \\
+
+Guansheng Peng, Jun Wu. "Optimal network topology for structural robustness based on natural connectivity". Physica A, vol.443, pp. 212-220, 2015. (CAS:Q3, JCR:Q2, IF:2.8) \\
+
+Jiaojiao Li, Jianghan Zhu, Guansheng Peng, Jianjiang Wang, Lu Zhen, Erik Demeulemeester, "Branch-Price-and-Cut algorithms for the team orienteering problem with interval-varying profits". European Journal of Operational Research, 2024. 319(3):793-807. \\
+
+Ke Wang, Guansheng Peng, and Jun Wu. "Analyzing Vulnerability of Optical Fiber Network Considering Recoverability". Reliability Engineering \& System Safety, 2022. 221:108308. \\
+
+ Jiawei Zhang, Lining Xing, Guansheng Peng, Feng Yao, Cheng Chen. "A large-scale Multi-objective Satellite Data Transmission Scheduling Algorithm based on SVM+NSGA-II". Swarm and Evolutionary Computation, 2019, 50:100560. \\
+
+Shang Xiang, Lining Xing, Ling Wang, Yongquan Zhou, and Guansheng Peng. "Enhanced pigeon inspired optimisation approach for Agile Earth observation satellite scheduling". International Journal of Bio-Inspired Computation, 2021, 17(3):131-141.
 
 
-#### Books
 
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f books -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
+> #### Books
+> 
+> <div class="publications">
+> 
+> {% for y in page.years %}
+>   {% bibliography -f books -q @*[year={{y}}]* %}
+> {% endfor %}
+> 
+> </div>
 
 #### Papers
 
